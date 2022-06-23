@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Copecofee, Just a brazilian beginner teen and trying to introduce myself to World of Coding and ethical Hacking (Always learning something new and getting knowledge). I've signed up right here to publish my own tools where might you find my studies notes. Hope That you enjoy.
 Wait for other tools while I'm taking care of business..
 
-python3 mrrobot.py
+python3 mrrobot.py >>>
 ...
 ..
 .
